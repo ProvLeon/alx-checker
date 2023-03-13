@@ -6,3 +6,7 @@ cmake-build-debug
 
 0x00-hello_world/
 alx-low_level_programming/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
